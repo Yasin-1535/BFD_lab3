@@ -46,11 +46,10 @@ npm install
 npm run dev
 ```
 
-3. Server URL:
+3. Server URLs:
 
-```text
-http://localhost:3000
-```
+- **Local:** `http://localhost:3000`
+- **Live Production (Render):** `https://bfd-lab3.onrender.com`
 
 ## API Endpoints
 
